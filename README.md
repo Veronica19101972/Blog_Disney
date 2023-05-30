@@ -2,7 +2,7 @@
 
 Trabajo Final de Python
 
-A continuación, te proporcionaré una guía general para llevar a cabo este proyecto.
+A continuación, proporciono una guía general para llevar a cabo este proyecto.
 
 1. Configuración del entorno:
    - Instala Python en tu sistema si aún no lo tienes.
